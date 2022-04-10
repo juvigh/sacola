@@ -1,4 +1,4 @@
-const {principal,validacao} = require('./src/index')
+const {principal} = require('./src/index')
 
 principal()
 
